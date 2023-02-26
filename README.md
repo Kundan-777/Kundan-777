@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kundanpal080@gmail.com**
 
-- ⚡ Fun fact **A girl who knows about programming**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
