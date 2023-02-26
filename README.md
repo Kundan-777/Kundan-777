@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kundan Palsaniya</h1>
 <h3 align="center">Like a normal girl ,just way more awesome</h3>
 
-- 🌱 I’m currently learning **CyberSecurity amd as well as back-end development**
+- 🌱 I’m currently learning **Flutter amd as well as Java**
 
 - 📫 How to reach me **kundanpal080@gmail.com**
 
